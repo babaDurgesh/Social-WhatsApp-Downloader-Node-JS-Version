@@ -1,6 +1,6 @@
 // config.js
 module.exports = {
-  API_BASE: 'https://api.amitdas.site/Pinterest/api/',
-  WHATSAPP_INSTANCE_ID: 'WHATSAPP_INSTANCE_ID',
-  WHATSAPP_ACCESS_TOKEN: 'WHATSAPP_ACCESS_TOKEN'
+  API_BASE: 'https://wadownloader.amitdas.site/api/',
+  WHATSAPP_INSTANCE_ID: 'YOUR_INSTANCE_ID',
+  WHATSAPP_ACCESS_TOKEN: 'YOUR_ACCESS_TOKEN'
 };
